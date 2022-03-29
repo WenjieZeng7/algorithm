@@ -2,15 +2,25 @@ package sorting;
 
 import com.sun.xml.internal.ws.api.ha.StickyFeature;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 /**
  * @author Jesse 1094798816@qq.com
  * @create 2022-03-24 20:16
  */
-public class quickSort {
+public class QuickSort {
     public static void main(String[] args) {
         int[] num = {6,1,2,7,9,3,4,5,10,8};
         quickSortMethod(num,0,num.length-1);
         System.out.println(arrayToString(num));
+
+        int[] a = new int[12];
+        a[1] = 111;
+        for (int i = 0; i < a.length; i++){
+            System.out.println(a[i]);
+        }
+
     }
 
     public static void quickSortMethod(int[] num,int left,int right){
@@ -53,5 +63,6 @@ public class quickSort {
         }
         return str;
     }
+
 
 }
