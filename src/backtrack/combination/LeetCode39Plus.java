@@ -40,7 +40,8 @@ public class LeetCode39Plus {
         }
 
         //3.单层搜索的逻辑
-        for(int i =  startIndex; candidates[i]<= Math.min(target-sum,candidates.length);i++){  //前提是candidates[]要排序
+        //剪枝时，用的&&是短路与，因为如果正好最后一个元素满足，在进行判断时，candidates[i+1]就超界了。
+        for(int i =  startIndex; (i < candidates.length) && (candidates[i] <= target-sum);i++){  //前提是candidates[]要排序
             path.add(candidates[i]);
             sum += candidates[i];
             backTracking(candidates,target,sum,i);
