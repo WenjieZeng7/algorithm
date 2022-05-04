@@ -9,7 +9,7 @@ import org.junit.Test;
  */
 public class Hot121_买卖股票的最佳时机_dp2 {
     //和上一个dp思想一致，只不过没有dp[][]
-    //这个叫上一个dp，还能记录买卖时间点
+    //这个较上一个dp，还能记录买卖时间点
 
     @Test
     public void maxProfit(){
