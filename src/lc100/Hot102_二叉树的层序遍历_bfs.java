@@ -26,7 +26,7 @@ class Solution {
             List<Integer> level = new ArrayList<>();  //每一层的结果。每一层都要**新建**，因为是对象，如果重复使用，最后的result里面的结果都是一样的list。
             for(int i = 0;i < n; i ++){
                 TreeNode node = queue.poll();
-                level.add(node.val);
+                level.add(node.val);  //在出栈时加入到结果中
                 if(node.left != null){
                     queue.add(node.left);
                 }

@@ -11,7 +11,7 @@ import java.util.List;
  * @author Jesse 1094798816@qq.com
  * @create 2022-04-10 16:55
  */
-public class Hot100_全排列_回溯 {
+public class Hot46_全排列_回溯 {
     List<List<Integer>> result = new ArrayList<>();
     LinkedList<Integer> path = new LinkedList<>();
     @Test

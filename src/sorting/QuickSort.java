@@ -14,13 +14,6 @@ public class QuickSort {
         int[] num = {6,1,2,7,9,3,4,5,10,8};
         quickSortMethod(num,0,num.length-1);
         System.out.println(arrayToString(num));
-
-        int[] a = new int[12];
-        a[1] = 111;
-        for (int i = 0; i < a.length; i++){
-            System.out.println(a[i]);
-        }
-
     }
 
     public static void quickSortMethod(int[] num,int left,int right){
@@ -49,7 +42,7 @@ public class QuickSort {
             }
             num[right] = num[left];
         }
-        num[left] = pivot;
+        num[left] = pivot;  //最后的分界，把pivot填入
 
         //递归
         quickSortMethod(num,left0,left-1);

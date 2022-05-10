@@ -31,7 +31,6 @@ public class Hot287_寻找重复数_二分查找 {
             }else{
                 left = mid + 1;  //二分查找范式left = mid+1
             }
-
         }
         System.out.println(left);
     }

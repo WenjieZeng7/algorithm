@@ -15,7 +15,7 @@ public class Hot279_完全平方数_dfs {
         int[] dp = new int[n+1]; //dp[0]不用，所以长度是n+1
         for (int i = 1; i <= n; i++) {
             dp[i] = i;
-            for (int j = 0; i - j * j >= 0 ; j++) {
+            for (int j = 1; i - j * j >= 0 ; j++) {
                 dp[i] = Math.min(dp[i],dp[i-j*j]+1);
             }
         }

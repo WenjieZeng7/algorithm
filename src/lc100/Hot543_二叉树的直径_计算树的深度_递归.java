@@ -9,7 +9,7 @@ import java.util.List;
  * @author Jesse 1094798816@qq.com
  * @create 2022-04-09 23:20
  */
-public class Hot543_二叉树的直径_计算树的深度 {
+public class Hot543_二叉树的直径_计算树的深度_递归 {
 }
 
 /*

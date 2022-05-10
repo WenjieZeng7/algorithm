@@ -8,7 +8,7 @@ import org.junit.Test;
  * @create 2022-04-06 18:02
  */
 public class Hot283_移动零_双指针 {
-    //因为单向的
+    //**因为单向的**
     @Test
     public void zero(){
         int[] nums = {0,1,0,3,12};

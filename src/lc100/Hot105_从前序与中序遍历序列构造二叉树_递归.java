@@ -24,7 +24,7 @@ public class Hot105_从前序与中序遍历序列构造二叉树_递归 {
         //降低空间复杂度的方法，递归函数的参数加入以下index，不用构建新的数组
         // (int[] preorder, int p_start, int p_end, int[] inorder, int i_start, int i_end)
 
-        //降低时间复杂度的话，建立Map的哈希映射，从而不用每次for循环在中序遍历中找根节点。
+        //降低时间复杂度的话，建立inorder的Map的哈希映射<值，下标>，从而不用每次for循环在中序遍历中找根节点。
         if(preorder.length == 0){
             return null;
         }

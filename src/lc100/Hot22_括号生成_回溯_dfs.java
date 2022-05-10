@@ -11,7 +11,7 @@ import java.util.List;
  * @author Jesse 1094798816@qq.com
  * @create 2022-04-10 17:19
  */
-public class Hot22_括号生成_回溯 {
+public class Hot22_括号生成_回溯_dfs {
     List<String> result = new ArrayList<>();
     @Test
     public void brackets(){

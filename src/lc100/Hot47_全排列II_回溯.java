@@ -18,7 +18,7 @@ public class Hot47_全排列II_回溯 {
     LinkedList<Integer> path = new LinkedList<>();
     @Test
     public void sortII(){
-        int[] nums = {1,1,2};
+        int[] nums = {1,1,1,2};
         Arrays.sort(nums);  //必须排序
         boolean[] used = new boolean[nums.length];
         backtrick(nums,used);
