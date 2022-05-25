@@ -32,12 +32,12 @@ public class QuickSort {
         //直到2个指针指向同一个元素
         while(left < right){
             //1.从右边开始找比pivot小的数
-            while (num[right]>=pivot && left<right){
+            while (num[right]>pivot && left<right){
                 right --;
             }
             num[left] = num[right];
             //2.从左边开始找比pivot大的数
-            while(num[left]<=pivot && left<right){
+            while(num[left]<pivot && left<right){
                 left ++;
             }
             num[right] = num[left];
