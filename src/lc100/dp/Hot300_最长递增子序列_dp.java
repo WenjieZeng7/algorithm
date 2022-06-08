@@ -1,4 +1,4 @@
-package lc100;
+package lc100.dp;
 
 import org.junit.Test;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
  * 题解：https://leetcode.cn/problems/longest-increasing-subsequence/solution/dong-tai-gui-hua-er-fen-cha-zhao-tan-xin-suan-fa-p/
  * 1.转态定义。dp[i]表示**以nums[i]结尾**的递增自序列长度
  */
-public class Hot300_最长递增子序列_dp_二分查找 {
+public class Hot300_最长递增子序列_dp {
     //返回长度
     @Test
     public void lengthOfLIS(){
