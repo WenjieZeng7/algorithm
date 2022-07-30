@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df22cd43-d52d-428f-9ddb-be582a2664ed" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/lc100/Hot300_最长递增子序列_dp.class" afterPath="$PROJECT_DIR$/out/production/algorithm/lc100/Hot300_最长递增子序列_dp.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/lc100/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/algorithm/lc100/TreeNode.class" />
-      <change beforePath="$PROJECT_DIR$/src/lc100/Hot300_最长递增子序列_dp_二分查找.java" afterPath="$PROJECT_DIR$/src/lc100/Hot300_最长递增子序列_dp_贪心算法_二分查找.java" />
-      <change beforePath="$PROJECT_DIR$/src/lc100/TreeNode.java" afterPath="$PROJECT_DIR$/src/lc100/TreeNode.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/lc100/Hot739_每日温度_单调栈.class" afterPath="$PROJECT_DIR$/out/production/algorithm/lc100/Hot739_每日温度_单调栈.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,51 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Hot48_旋转图像_辅助矩阵.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot48_旋转图像_辅助矩阵.java">
+      <file leaf-file-name="Test7281.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test7281.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot347_前K个高频元素_Map排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot347_前K个高频元素_Map排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot347_前K个高频元素_堆排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot347_前K个高频元素_堆排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot75_颜色分类_统计.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/Hot75_颜色分类_统计.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot75_颜色分类_指针.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/Hot75_颜色分类_指针.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1093">
-              <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="384">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,31 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hot75_颜色分类_指针.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot75_颜色分类_指针.java">
+      <file leaf-file-name="Test7282.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test7282.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot75_颜色分类_统计.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot75_颜色分类_统计.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot739_每日温度_单调栈.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc100/Hot739_每日温度_单调栈.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            <state relative-caret-position="312">
+              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,21 +39,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hot739_每日温度_单调栈.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lc100/栈/Hot739_每日温度_单调栈.java">
+      <file leaf-file-name="Test7283.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test7283.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test7284.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test7284.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
+      <file leaf-file-name="Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lc100/二分/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="-564">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -152,57 +101,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lc100/Hot84_柱状图中的最大矩形.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot84_柱状图中的最大矩形_暴力.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot84_柱状图中的最大矩形_单调栈.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot84_柱状图中的最大矩形_单调栈_哨兵.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot221_最大正方形.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot221_最大正方形_dp.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot322_零钱兑换.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot322_零钱兑换_dp.java" />
-        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot1_两数之和_哈希表.java" />
-        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot136_只出现一次的数字_哈希表.java" />
-        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot49_字母异位词分组_哈希表.java" />
-        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot448_找到所有数组中消失的数字_哈希表.java" />
-        <option value="$PROJECT_DIR$/src/lc100/回溯/Hot46_全排列_回溯.java" />
-        <option value="$PROJECT_DIR$/src/lc100/dp/Hot300_最长递增子序列_dp.java" />
-        <option value="$PROJECT_DIR$/src/lc100/滑动窗口/Hot3_无重复字符的最长子串_滑动窗口.java" />
-        <option value="$PROJECT_DIR$/src/lc100/栈/Hot84_柱状图中的最大矩形_单调栈.java" />
-        <option value="$PROJECT_DIR$/src/lc100/链表/Hot160_相交链表_数学.java" />
-        <option value="$PROJECT_DIR$/src/lc100/递归/Hot543_二叉树的直径_计算树的深度_递归.java" />
-        <option value="$PROJECT_DIR$/src/lc100/dfs_bfs/Hot279_完全平方数_dfs.java" />
-        <option value="$PROJECT_DIR$/src/lc100/dfs_bfs/Hot102_二叉树的层序遍历_bfs.java" />
-        <option value="$PROJECT_DIR$/src/lc100/数学/Hot238_除自身以外数组的乘积_数学.java" />
-        <option value="$PROJECT_DIR$/src/lc100/数学/Hot136_只出现一次的数字_数学异或.java" />
-        <option value="$PROJECT_DIR$/src/lc100/图/Hot207_课程表_有向图_拓扑排序.java" />
-        <option value="$PROJECT_DIR$/src/lc100/树/Hot102_二叉树的层序遍历_bfs.java" />
-        <option value="$PROJECT_DIR$/src/lc100/暴力/Hot84_柱状图中的最大矩形_暴力.java" />
-        <option value="$PROJECT_DIR$/src/lc100/模拟/Hot139_单词拆分_模拟_错误.java" />
-        <option value="$PROJECT_DIR$/src/lc100/排序/Hot215_数组中的第K个最大元素_堆排序.java" />
-        <option value="$PROJECT_DIR$/src/lc100/二分/Hot287_寻找重复数_二分查找.java" />
-        <option value="$PROJECT_DIR$/src/lc100/指针/Hot148_排序链表_归并排序_快慢指针_Map排序.java" />
-        <option value="$PROJECT_DIR$/src/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/lc100/递归/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/lc100/树/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/lc100/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot56_合并区间.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot56_合并区间_多数组排序.java" />
-        <option value="$PROJECT_DIR$/src/lc100/排序/Hot56_合并区间_多数组排序_list转二维数组.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot56_合并区间_多数组排序_list转二维数组.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot48_旋转图像.java" />
-        <option value="$PROJECT_DIR$/src/lc100/链表/Hot48_旋转图像_两次翻转.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot48_旋转图像_辅助矩阵.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot48_旋转图像_两次翻转.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot48_旋转图像_螺旋交换.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot75_颜色分类.java" />
-        <option value="$PROJECT_DIR$/src/lc100/数学/Hot48_旋转图像_辅助矩阵.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot75_颜色分类_统计.java" />
-        <option value="$PROJECT_DIR$/src/lc100/Hot75_颜色分类_指针.java" />
         <option value="$PROJECT_DIR$/src/lc100/指针/Hot75_颜色分类_指针.java" />
         <option value="$PROJECT_DIR$/src/lc100/数学/Hot75_颜色分类_统计.java" />
         <option value="$PROJECT_DIR$/src/lc100/Hot739_每日温度.java" />
         <option value="$PROJECT_DIR$/src/lc100/Hot739_每日温度_单调栈.java" />
         <option value="$PROJECT_DIR$/src/lc100/栈/Hot739_每日温度_单调栈.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot438_找到字符串中所有的字母异位词.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot438_找到字符串中所有字母异位词_模拟.java" />
+        <option value="$PROJECT_DIR$/src/lc100/模拟/Hot438_找到字符串中所有字母异位词_模拟.java" />
+        <option value="$PROJECT_DIR$/src/lc100/链表/Hot438_找到字符串中所有字母异位词.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot438_找到字符串中所有字母异位词.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot438_找到字符串中所有字母异位词_连续匹配优化.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot438_找到字符串中所有字母异位词_滑动窗口_哈希表.java" />
+        <option value="$PROJECT_DIR$/src/lc100/模拟/Hot438_找到字符串中所有字母异位词_连续匹配优化.java" />
+        <option value="$PROJECT_DIR$/src/lc100/滑动窗口/Hot438_找到字符串中所有字母异位词_滑动窗口_哈希表.java" />
+        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot438_找到字符串中所有字母异位词_滑动窗口_哈希表.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot5_最长回文子串.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot5_最长回文子串_滑动窗口.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot5_最长回文子串_中心扩展.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot647_回文子串_dp.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot5_最长回文子串_dp.java" />
+        <option value="$PROJECT_DIR$/src/lc100/dp/Hot5_最长回文子串_dp.java" />
+        <option value="$PROJECT_DIR$/src/lc100/滑动窗口/Hot5_最长回文子串_滑动窗口.java" />
+        <option value="$PROJECT_DIR$/src/lc100/中心扩展/Hot5_最长回文子串_中心扩展.java" />
+        <option value="$PROJECT_DIR$/src/lc100/中心扩展/Hot647_回文子串_中心扩展.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot15_三数之和.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot15_三数之和_回溯.java" />
+        <option value="$PROJECT_DIR$/src/lc100/回溯/Hot15_三数之和_回溯.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot15_三数之和_双指针.java" />
+        <option value="$PROJECT_DIR$/src/lc100/指针/Hot15_三数之和_双指针.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组_回溯.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组_前缀和_哈希表.java" />
+        <option value="$PROJECT_DIR$/src/lc100/哈希表/Hot560_和为K的子数组_前缀和_哈希表.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组_前缀和_哈希表_优化.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot34_在排序数组中查找元素的第一个和最后一个位置.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java" />
+        <option value="$PROJECT_DIR$/src/lc100/二分/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java" />
+        <option value="$PROJECT_DIR$/src/lc100/Hot416_分割等和子集.java" />
+        <option value="$PROJECT_DIR$/src/Base.java" />
+        <option value="$PROJECT_DIR$/src/Son.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/test2.java" />
+        <option value="$PROJECT_DIR$/src/test3.java" />
+        <option value="$PROJECT_DIR$/src/test7232.java" />
+        <option value="$PROJECT_DIR$/src/test7233.java" />
+        <option value="$PROJECT_DIR$/src/test723.java" />
+        <option value="$PROJECT_DIR$/src/tree/travel/Test7281.java" />
+        <option value="$PROJECT_DIR$/src/Test7282.java" />
+        <option value="$PROJECT_DIR$/src/Test7283.java" />
+        <option value="$PROJECT_DIR$/src/Test7284.java" />
       </list>
     </option>
   </component>
@@ -236,7 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -260,21 +210,25 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="lc100" type="462c0819:PsiDirectoryNode" />
+              <item name="二分" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="树&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot543_二叉树的直径_计算树的深度_递归.java&#10;图&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/图&#10;哈希&#9;PSI&#9;JAVA://lc100.Hot49_字母异位词分组_哈希表&#10;栈&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot84_柱状图中的最大矩形_单调栈.java&#10;单调&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot239_滑动窗口最大值_单调队列_双向队列.java&#10;removefirst&#9;PSI&#9;JAVA://java.util.Deque#removeFirst&#10;二分&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot287_寻找重复数_二分查找.java&#10;dfs&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot200_岛屿数量_dfs.java&#10;最长&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot3_无重复字符的最长子串_滑动窗口.java&#10;滑动&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot3_无重复字符的最长子串_滑动窗口.java&#10;map&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot347_前K个高频元素_Map排序.java&#10;堆&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot347_前K个高频元素_堆排序.java&#10;getOrDefault&#9;PSI&#9;JAVA://java.util.Map#getOrDefault&#10;Map&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot148_排序链表_归并排序_快慢指针_Map排序.java&#10;股票&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot121_买卖股票的最佳时机_dp.java&#10;链表&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot21_合并两个有序链表_链表.java" />
+    <property name="SearchEverywhereHistoryKey" value="二分&#9;PSI&#9;JAVA://lc100.Hot287_寻找重复数_二分查找&#10;回文&#9;PSI&#9;JAVA://lc100.Hot647_回文子串_dp&#10;树&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot543_二叉树的直径_计算树的深度_递归.java&#10;图&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/图&#10;哈希&#9;PSI&#9;JAVA://lc100.Hot49_字母异位词分组_哈希表&#10;栈&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot84_柱状图中的最大矩形_单调栈.java&#10;单调&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot239_滑动窗口最大值_单调队列_双向队列.java&#10;removefirst&#9;PSI&#9;JAVA://java.util.Deque#removeFirst&#10;dfs&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot200_岛屿数量_dfs.java&#10;最长&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot3_无重复字符的最长子串_滑动窗口.java&#10;滑动&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot3_无重复字符的最长子串_滑动窗口.java&#10;map&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot347_前K个高频元素_Map排序.java&#10;堆&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot347_前K个高频元素_堆排序.java&#10;getOrDefault&#9;PSI&#9;JAVA://java.util.Map#getOrDefault&#10;Map&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot148_排序链表_归并排序_快慢指针_Map排序.java&#10;股票&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot121_买卖股票的最佳时机_dp.java&#10;链表&#9;FILE&#9;file://C:/Jesse/idea-workspace/algorithm/src/lc100/Hot21_合并两个有序链表_链表.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -285,11 +239,11 @@
       <recent name="C:\Jesse\idea-workspace\algorithm\src\lc100\模拟" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lc100.栈" />
-      <recent name="lc100.数学" />
-      <recent name="lc100.指针" />
+      <recent name="" />
+      <recent name="lc100.二分" />
       <recent name="lc100" />
-      <recent name="lc100.链表" />
+      <recent name="lc100.哈希表" />
+      <recent name="lc100.指针" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sorting" />
@@ -307,13 +261,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Hot739_每日温度_单调栈.dailyTemperatures">
+  <component name="RunManager" selected="Application.Test7283">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Test7281" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tree.travel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tree.travel.Test7281" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Test7283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test7283" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -329,155 +330,19 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="Hot322_零钱兑换_dp.coinChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algorithm" />
+    <configuration name="test723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="test723" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot322_零钱兑换_dp" />
-      <option name="METHOD_NAME" value="coinChange" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Hot56_合并区间_多数组排序_list转二维数组.listTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <module name="algorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot56_合并区间_多数组排序_list转二维数组" />
-      <option name="METHOD_NAME" value="listTo" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
       <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Hot56_合并区间_多数组排序_list转二维数组.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot56_合并区间_多数组排序_list转二维数组" />
-      <option name="METHOD_NAME" value="merge" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Hot739_每日温度_单调栈.dailyTemperatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot739_每日温度_单调栈" />
-      <option name="METHOD_NAME" value="dailyTemperatures" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Hot75_颜色分类_指针.sortColors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot75_颜色分类_指针" />
-      <option name="METHOD_NAME" value="sortColors" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="Hot84_柱状图中的最大矩形_暴力.largestRectangleArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lc100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="algorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lc100" />
-      <option name="MAIN_CLASS_NAME" value="lc100.Hot84_柱状图中的最大矩形_暴力" />
-      <option name="METHOD_NAME" value="largestRectangleArea" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="Hot84_柱状图中的最大矩形_单调栈.largestRectangleArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -492,6 +357,46 @@
       <option name="PACKAGE_NAME" value="lc100" />
       <option name="MAIN_CLASS_NAME" value="lc100.Hot84_柱状图中的最大矩形_单调栈" />
       <option name="METHOD_NAME" value="largestRectangleArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Test7282.uniquePaths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test7282" />
+      <option name="METHOD_NAME" value="uniquePaths" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Test7283.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="algorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test7283" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -565,19 +470,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Hot322_零钱兑换_dp.coinChange" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Hot56_合并区间_多数组排序_list转二维数组.merge" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Hot56_合并区间_多数组排序_list转二维数组.listTo" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Hot75_颜色分类_指针.sortColors" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Hot739_每日温度_单调栈.dailyTemperatures" />
+      <item index="0" class="java.lang.String" itemvalue="Application.test723" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test7281" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Test7282.uniquePaths" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test7283" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Test7283.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Hot739_每日温度_单调栈.dailyTemperatures" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Hot75_颜色分类_指针.sortColors" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Hot56_合并区间_多数组排序_list转二维数组.listTo" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Hot56_合并区间_多数组排序_list转二维数组.merge" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Hot322_零钱兑换_dp.coinChange" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test7283" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Test7283.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Test7282.uniquePaths" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test7281" />
+        <item index="4" class="java.lang.String" itemvalue="Application.test723" />
       </list>
     </recent_temporary>
   </component>
@@ -670,75 +575,124 @@
       <workItem from="1654589983356" duration="626000" />
       <workItem from="1654687920064" duration="3599000" />
       <workItem from="1654699856917" duration="3563000" />
+      <workItem from="1654703923450" duration="195000" />
+      <workItem from="1654775188568" duration="32000" />
+      <workItem from="1654846080879" duration="11994000" />
+      <workItem from="1655037913465" duration="10467000" />
+      <workItem from="1655106444053" duration="622000" />
+      <workItem from="1655185012108" duration="4658000" />
+      <workItem from="1655642801938" duration="1759000" />
+      <workItem from="1656167308779" duration="77000" />
+      <workItem from="1657627723454" duration="2984000" />
+      <workItem from="1657637358245" duration="300000" />
+      <workItem from="1657712177002" duration="3427000" />
+      <workItem from="1658150865962" duration="47000" />
+      <workItem from="1658151224515" duration="626000" />
+      <workItem from="1658577051208" duration="4866000" />
+      <workItem from="1658934718023" duration="1313000" />
+      <workItem from="1659009417741" duration="2008000" />
+      <workItem from="1659020721756" duration="4104000" />
+      <workItem from="1659096380635" duration="628000" />
+      <workItem from="1659170813185" duration="850000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Hot739_每日温度_单调栈_dailyTemperatures - 2022.06.08 at 23h 52m 34s.xml">
-      <configuration name="Hot739_每日温度_单调栈.dailyTemperatures" configurationId="JUnit" />
+    <history-entry file="Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找_searchRange - 2022.06.14 at 14h 33m 56s.xml">
+      <configuration name="Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找.searchRange" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 22h 52m 42s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找_searchRange - 2022.06.14 at 14h 41m 31s.xml">
+      <configuration name="Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找.searchRange" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 22h 56m 33s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Hot416_分割等和子集_canPartition - 2022.06.19 at 20h 47m 00s.xml">
+      <configuration name="Hot416_分割等和子集.canPartition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 04m 00s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Hot416_分割等和子集_canPartition - 2022.06.19 at 21h 37m 42s.xml">
+      <configuration name="Hot416_分割等和子集.canPartition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 05m 02s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Hot560_和为K的子数组_回溯_subarraySum - 2022.06.13 at 13h 50m 21s.xml">
+      <configuration name="Hot560_和为K的子数组_回溯.subarraySum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 05m 15s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Test7282_uniquePaths - 2022.07.28 at 20h 17m 56s.xml">
+      <configuration name="Test7282.uniquePaths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 07m 20s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Test7282_uniquePaths - 2022.07.28 at 20h 18m 09s.xml">
+      <configuration name="Test7282.uniquePaths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 07m 34s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Test7282_uniquePaths - 2022.07.28 at 20h 18m 28s.xml">
+      <configuration name="Test7282.uniquePaths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 11m 07s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Test7282_uniquePaths - 2022.07.28 at 20h 27m 57s.xml">
+      <configuration name="Test7282.uniquePaths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Hot75_颜色分类_指针_sortColors - 2022.06.08 at 23h 53m 43s.xml">
-      <configuration name="Hot75_颜色分类_指针.sortColors" configurationId="JUnit" />
+    <history-entry file="Test7283_test - 2022.07.28 at 23h 56m 23s.xml">
+      <configuration name="Test7283.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300752000" />
+    <option name="totallyTimeSpent" value="351709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.53004295" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26580796" sideWeight="0.46995708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32618025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4449649" sideWeight="0.54613733" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.49570817" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30327868" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42037472" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30327868" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.293911" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.293911" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28916308" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30203864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42037472" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -791,380 +745,492 @@
           <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test3.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="116" />
+      <option name="time" value="129" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot338_比特位计数_数学.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot1_两数之和_哈希表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot169_多数元素_数学.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot494_目标和_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="29">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot160_相交链表_数学.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot78_子集_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="212">
+          <caret line="15" column="50" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot238_除自身以外数组的乘积_数学.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot47_全排列II_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="164">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot461_汉明距离_数学异或.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot46_全排列_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-34">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot62_不同路径_数学.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot1_两数之和_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="254">
+          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot136_只出现一次的数字_数学异或.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot79_单词搜索_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="-259">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/图/Hot207_课程表_有向图_拓扑排序.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot347_前K个高频元素_Map排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        <state relative-caret-position="216">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot543_二叉树的直径_计算树的深度_递归.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot347_前K个高频元素_堆排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot101_对称二叉树_递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot105_从前序与中序遍历序列构造二叉树_递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot617_合并二叉树_dfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot226_翻转二叉树_递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot102_二叉树的层序遍历_bfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/Hot543_二叉树的直径_计算树的深度_递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/暴力/Hot1_两数之和_暴力.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/暴力/Hot84_柱状图中的最大矩形_暴力.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/模拟/Hot239_滑动窗口最大值_模拟.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/模拟/Hot49_字母异位词分组_模拟.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/模拟/Hot139_单词拆分_模拟_错误.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot207_课程表_有向图_拓扑排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot215_数组中的第K个最大元素_堆排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/二分/Hot300_最长递增子序列_dp_贪心算法_二分查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/二分/Hot287_寻找重复数_二分查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="216">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot283_移动零_双指针.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot234_回文链表_链表_双指针.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot148_排序链表_归并排序_快慢指针_Map排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot148_排序链表_归并排序_快慢指针_Map排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot322_零钱兑换_dp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/lc100/树/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/递归/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/递归/Hot105_从前序与中序遍历序列构造二叉树_递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot56_合并区间_多数组排序_list转二维数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot48_旋转图像_辅助矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot48_旋转图像_两次翻转.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot48_旋转图像_螺旋交换.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot56_合并区间_多数组排序_list转二维数组.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot48_旋转图像_螺旋交换.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot48_旋转图像_两次翻转.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot48_旋转图像_辅助矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot347_前K个高频元素_Map排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot347_前K个高频元素_堆排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot75_颜色分类_统计.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot75_颜色分类_指针.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1093">
-          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot75_颜色分类_指针.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="288">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/数学/Hot75_颜色分类_统计.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot312_戳气球_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/Hot739_每日温度_单调栈.java">
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot1_两数之和_回溯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="216">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="511" column="15" lean-forward="true" selection-start-line="511" selection-start-column="12" selection-end-line="511" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="511" column="19" lean-forward="false" selection-start-line="511" selection-start-column="19" selection-end-line="511" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/排序/Hot347_前K个高频元素_Map排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot15_三数之和_回溯.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/回溯/Hot15_三数之和_回溯.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot15_三数之和_双指针.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="43" column="2" lean-forward="true" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/指针/Hot15_三数之和_双指针.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/combination/LeetCode39Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/combination/LeetCode77Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/combination/LeetCode77.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组_前缀和_哈希表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="44" column="39" lean-forward="false" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/哈希表/Hot560_和为K的子数组_前缀和_哈希表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot560_和为K的子数组_前缀和_哈希表_优化.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="41" column="3" lean-forward="false" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/combination/LeetCode39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot300_最长递增子序列_dp_贪心算法_二分查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot287_寻找重复数_二分查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2568">
+          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/Hot416_分割等和子集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4656">
+          <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc100/栈/Hot739_每日温度_单调栈.java">
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="624">
+          <caret line="50" column="11" lean-forward="false" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8856">
+          <caret line="406" column="28" lean-forward="false" selection-start-line="406" selection-start-column="28" selection-end-line="406" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14808">
+          <caret line="666" column="31" lean-forward="false" selection-start-line="666" selection-start-column="31" selection-end-line="666" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../develop_tools/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9312">
+          <caret line="440" column="25" lean-forward="false" selection-start-line="440" selection-start-column="25" selection-end-line="440" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test7232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test7233.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test723.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/二分/Hot287_寻找重复数_二分查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test7282.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test7281.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test7283.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test7284.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc100/二分/Hot34_在排序数组中查找元素的第一个和最后一个位置_二分查找范式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-564">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
